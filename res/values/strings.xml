@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment8Puppies</string>    
+    <string name="main_title">Puppies!</string>
+    <string name="main_intro">Learn all about puppies! Factual information and real barking sounds inside. Pet the puppy to begin.</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
